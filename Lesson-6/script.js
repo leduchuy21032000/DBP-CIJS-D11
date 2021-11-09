@@ -2,6 +2,7 @@ import { } from "./modules/setup.js";   // nhận side effect
 import { SignIn, SignUp, Home } from "./pages/index.js";
 
 class Application {
+    main
     home
     signIn
     signUp
